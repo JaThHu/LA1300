@@ -34,7 +34,10 @@ Ein Spiel, bei dem man Zahlen raten kann.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|  |       |        |            |         |
+| 1 |   23.08.    |    Janick    |     Zufallszahl wird generiert       |    45min     |
+| 2 |   23.08.    |    Janick    |     Eingabe für Benutzer funktioniert      |    45min     |
+| 3 |   23.08.    |    Janick    |     Eingabe wird kontrolliert       |    45min     |
+| 4 |   23.08.    |    Janick    |     try-catch      |    45min     |
 
 
 
