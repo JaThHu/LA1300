@@ -13,41 +13,36 @@ Janick Hurschler
 
 ### 1.1 Ihr Projekt
 
-Wir programmieren eine Netzseite über Fashion und Mode nur mit HTML und CSS.
 
-Wir möchten in diesem Projekt lernen, wie man in der Gruppe eine Netzseite programmiert. Dazu gehört die Kommunikation, Absprache und Ideen. 
-Da wir das erste mal mit HTML und CSS arbeiten, möchten wir auch unser Können und Wissen über diese Sprachen erweitern. Zusätzlich wollen wir erlernen, wie man ein schönes, übersichtliches Design einer Netzseite erstellt.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |        Muss         |   Qualität   | Als ein Benutzer möchte ich einen Darkmode, damit ich keine Augenschmerzen bekomme.|
-| 2  |       Muss          |   Funktional   |         Als ein Benutzer möchte ich die Produkte filtern, damit ich eine präzisere Auswahl habe.|
-| 3 | Muss | Qualität | Als ein Benutzer möchte ich mehr als ein Bild pro Produkt anschauen, damit ich meine Entscheidung besser treffen kann. |
+| 1    |                 |     | |
+| 2  |           |     |       |
+| 3 |  | |  |
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |     Webseite ist geöffnet.         |    Darkmode-Schalter clicken.     |        Webseite wechselt die Farben (Darkmode).           |
-| 1.2  |    Darkmode ist an.          |    Darkmode-Schalter clicken.     |   Webseite wechselt die Farben zurück (Whitemode).                |
-| 2.1 | Webseite ist geöffnet. | Auf das Filter-Symbol und dann auf Farbe schwarz clicken. | nur noch Produkte mit der Farbe schwarz. |
-| 2.2 | Filter ist aktiv. | Filter löschen. | Es werden wieder alle Produkte anezeigt. |
-| 3.1 | Webseite ist geöffnet. | Mauszeiger auf ein Bild eines Produktes setzen. | Bilder werden als Diashow angezeigt. |
+| 1.1  |    |       |                |
+| 1.2  |            |       |                  |
+| 2.1 |  |  |
+| 2.2 |  |  |  |
+| 3.1 |  |  |  |
 
 ### 1.4 Diagramme
 
-![Use-case_Diagramm](https://github.com/JaThHu/LA1600/assets/111045598/9de6133d-ba9d-41f2-8bdc-c5b645702b2b)
 
-![Webseite_Skizze](https://github.com/JaThHu/LA1600/assets/111045598/61daeee6-8f75-49f4-9632-5f84a36c5c3f)
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |   25.5.    |     Janick      |     Darkmode-Farben erstellen         |       45min        |
-| 1.B  |  25.5.     |     Janick      |      Darkmode-Schalter erstellen        |      45min         |
+| 1.A  |      |           |              |              |
+| 1.B  |       |           |           |            |
 |2.A| 1.6.|Ensar|Filter-Button erstellen|45min|
 |2.B|1.6.|Ensar|Filter-Funktionen erstellen|2 * 45min|
 |3.A|8.6.|Gian-Marco|Bilder einfügen|45min|
