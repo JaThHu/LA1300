@@ -1,0 +1,14 @@
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\bin\Debug\LA1300_Zahlenratspiel.exe.config
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\bin\Debug\LA1300_Zahlenratspiel.exe
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\bin\Debug\LA1300_Zahlenratspiel.pdb
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.csproj.AssemblyReference.cache
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.exe
+C:\Users\janic\source\repos\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.pdb
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\bin\Debug\LA1300_Zahlenratspiel.exe.config
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\bin\Debug\LA1300_Zahlenratspiel.exe
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\bin\Debug\LA1300_Zahlenratspiel.pdb
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.csproj.AssemblyReference.cache
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.csproj.CoreCompileInputs.cache
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.exe
+C:\Users\janic\source\repos\2. Schuljahr\LA1300_Zahlenratspiel\obj\Debug\LA1300_Zahlenratspiel.pdb
